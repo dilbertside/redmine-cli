@@ -1,9 +1,12 @@
-## redmine-shell
+## redmine-cli
 Java Redmine console helper to access remotely Redmine instance
 
 It uses library from
+
 [Redmine Java API](https://github.com/taskadapter/redmine-java-api#readme)
+
 and
+
 [Spring shell](https://github.com/spring-projects/spring-shell#readme)
 
 ##Features
@@ -22,12 +25,12 @@ You can find your Redmine API key on your account page ( /my/account ) when logg
 
 ##Get the source
 ```bash
-git clone https://github.com/dilbertside/redmine-shell.git
+git clone https://github.com/dilbertside/redmine-cli.git
 ```
 
 ## Build it
 ```bash
-cd redmine-shell
+cd redmine-cli
 mvn package
 ```
 
