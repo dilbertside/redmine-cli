@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/dilbertside/redmine-cli.svg)](https://travis-ci.org/dilbertside/redmine-cli)
+
 ## redmine-cli
 Java Redmine console helper to access remotely Redmine instance
 
